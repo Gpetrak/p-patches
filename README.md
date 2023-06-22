@@ -7,5 +7,5 @@ The original images from earth were captured in a quarry from the area of Crete,
 
 To download the dataset follow this link: 
 
-References
+# References
 Balntas V, Lenc K, Vedaldi A, Mikolajczyk K, HPatches: A Benchmark and Evaluation of Handcrafted and Learned Local Descriptors, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 5173-5182
